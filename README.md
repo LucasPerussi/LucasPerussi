@@ -1,20 +1,4 @@
-### Hi there 👋
 
-<!--
-**LucasPerussi/LucasPerussi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on web development (Hmtl, CSS, JS and react);
-- 🌱 I’m currently learning React;
-- 🤔 I’m looking for help with React Native;
-- 💬 Ask me about anything you want!
-- 📫 How to reach me: via perussilucas@hotmail.com;
-- ⚡ Fun fact: I just got 15kg since the pandemic beginning hahah (but I am working hard to lose it);
--->
-
-
-```markdown
 <img width="auto" src="https://cdn.pixabay.com/photo/2015/01/08/18/25/startup-593327_1280.jpg">
 
 # Lucas Perussi
@@ -31,4 +15,4 @@ Estou estudando muito para me tornar um FullStack Developer :computer:, porem fo
 | 
 [![Gmail Badge](https://img.shields.io/badge/-perussilucas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:perussilucas@gmail.com)](mailto:perussilucas@gmail.com)
 
-```
+
