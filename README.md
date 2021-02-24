@@ -7,7 +7,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Estou estudando muito para me tornar um FullStack Developer :computer:, porem focado em front por hora.
 
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
+ :rocket:  &nbsp; Estou trabalhando na **Wetalk.it**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
  <br/> :blush: &nbsp; Posso te ajudar com CSS html JS COBOL e CSharp
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games OverWatch, Minecraft e seriados no Netflix
