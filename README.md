@@ -1,5 +1,5 @@
 
-<img width="auto" src="https://cdn.pixabay.com/photo/2015/01/08/18/25/startup-593327_1280.jpg">
+<img width="auto" src="https://drive.google.com/file/d/164xv9er2tl9vKHZJDg9mRH6SpGMcqreR/view?usp=sharing">
 
 # Lucas Perussi
 
