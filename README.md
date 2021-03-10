@@ -1,5 +1,5 @@
 
-<img width="auto" src="https://drive.google.com/file/d/164xv9er2tl9vKHZJDg9mRH6SpGMcqreR/view?usp=sharing">
+<img width="auto" src="https://i.imgur.com/2YwyA1I.png">
 
 # Lucas Perussi
 
