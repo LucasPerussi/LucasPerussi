@@ -4,8 +4,7 @@
 # Lucas Perussi
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Estou estudando muito para me tornar um FullStack Developer :computer:, porém focado em front por hora.
+Sou apaixonado por programar, e atuo como FullStack Developer.
 
  :rocket:  &nbsp; Estou trabalhando na **Wetalk.it**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end.
