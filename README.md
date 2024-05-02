@@ -1,4 +1,4 @@
-// <img width="auto" src="https://i.imgur.com/2YwyA1I.png">
+<<img width="auto" src="https://i.imgur.com/2YwyA1I.png">>
 
 # Lucas Perussi
 
